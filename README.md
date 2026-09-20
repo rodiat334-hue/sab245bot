@@ -1,9 +1,16 @@
-# បក្សីកីឡា-24 Telegram Bot
+# 🐓 បក្សីកីឡា-24 Telegram Bot
 
-Simple Telegram bot for បក្សីកីឡា-24 — deployed on Railway via GitHub.
+Simple, always-active Telegram bot for bird-sport (បក្សីកីឡា) fans.
 
-## Deploy
-1. Push this repo to GitHub
-2. Create new project on Railway → Deploy from GitHub
-3. Add environment variables (BOT_TOKEN, CHANNEL_URL, SUPPORT_URL)
-4. Railway auto-builds and runs via Procfile
+## Features
+- 📅 Daily fight schedule
+- 🏆 Live events
+- 📊 Latest results
+- 🎥 Stream links
+- 🕐 24/7 active
+
+## Deploy on Railway
+1. Push to GitHub
+2. railway.app → New Project → Deploy from GitHub
+3. Add `BOT_TOKEN` variable
+4. Deploy 🚀
